@@ -1,5 +1,6 @@
 # Breakout TypeScript Game
 ## Инструкция
+ **Перед запуском необходимо произвести установку зависимостей с помощью `npm install`**
  * Для запуска игры откройте `index.html`
  * `npm run compile` - компилировать TypeScript в JS
  * `npm run build` - выполнить сборку JS-файлов
